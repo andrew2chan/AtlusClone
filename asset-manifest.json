@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/andrew2chan/AtlusClone/static/css/main.a13cdcd2.css",
+    "main.js": "/andrew2chan/AtlusClone/static/js/main.6128ef9a.js",
+    "static/js/787.53dd87b0.chunk.js": "/andrew2chan/AtlusClone/static/js/787.53dd87b0.chunk.js",
+    "static/media/P4.png": "/andrew2chan/AtlusClone/static/media/P4.86b7d23ac264b36fbd2a.png",
+    "static/media/P5.png": "/andrew2chan/AtlusClone/static/media/P5.a684f2390544d4342c76.png",
+    "static/media/SH2.png": "/andrew2chan/AtlusClone/static/media/SH2.b922b7c2974d2efc3f2f.png",
+    "static/media/logo-alpha.png": "/andrew2chan/AtlusClone/static/media/logo-alpha.2758ecf1f1bf4bbe4b94.png",
+    "index.html": "/andrew2chan/AtlusClone/index.html",
+    "main.a13cdcd2.css.map": "/andrew2chan/AtlusClone/static/css/main.a13cdcd2.css.map",
+    "main.6128ef9a.js.map": "/andrew2chan/AtlusClone/static/js/main.6128ef9a.js.map",
+    "787.53dd87b0.chunk.js.map": "/andrew2chan/AtlusClone/static/js/787.53dd87b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a13cdcd2.css",
+    "static/js/main.6128ef9a.js"
+  ]
+}
