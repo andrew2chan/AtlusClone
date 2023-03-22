@@ -1,0 +1,10 @@
+.main-body-news {
+    text-align: left;
+    padding: 30px 5%;
+    height: 100%;
+}
+
+.sub-inner-block {
+    border-bottom: 1px dotted lightgrey;
+    text-align: left;
+}
