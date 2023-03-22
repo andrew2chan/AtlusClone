@@ -29,11 +29,11 @@ const Navbar = () => {
       <nav>
         <ul>
           <li>
-            <Link to="/"><img src={logo} alt="logo" className="logo" /></Link>
+            <Link to="/AtlusClone"><img src={logo} alt="logo" className="logo" /></Link>
             <div className="navbar-menu" onClick={toggleMenu}>Menu</div>
           </li>
           <li className={navbarCSSToggle}>
-            <Link to="/" onClick={turnOffToggleMenu}>Home</Link>
+            <Link to="/AtlusClone" onClick={turnOffToggleMenu}>Home</Link>
           </li>
           <li className={navbarCSSToggle}>
             <Link to="/games" onClick={turnOffToggleMenu}>Games</Link>

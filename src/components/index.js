@@ -88,7 +88,7 @@ const Main = () => {
       <Navbar />
         <div className="Content-Container">
           <Routes>
-            <Route index element={<Home />} />
+            <Route path="AtlusClone" element={<Home />} />
             <Route path="games" element={<Games />} />
             <Route path="news" element={<News />} />
             <Route path="company" element={<Company />} />
