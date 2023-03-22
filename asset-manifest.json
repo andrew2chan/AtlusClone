@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AtlusClone/static/css/main.a13cdcd2.css",
-    "main.js": "/AtlusClone/static/js/main.96690bc0.js",
+    "main.js": "/AtlusClone/static/js/main.af9a6126.js",
     "static/js/787.53dd87b0.chunk.js": "/AtlusClone/static/js/787.53dd87b0.chunk.js",
     "static/media/P4.png": "/AtlusClone/static/media/P4.86b7d23ac264b36fbd2a.png",
     "static/media/P5.png": "/AtlusClone/static/media/P5.a684f2390544d4342c76.png",
@@ -9,11 +9,11 @@
     "static/media/logo-alpha.png": "/AtlusClone/static/media/logo-alpha.2758ecf1f1bf4bbe4b94.png",
     "index.html": "/AtlusClone/index.html",
     "main.a13cdcd2.css.map": "/AtlusClone/static/css/main.a13cdcd2.css.map",
-    "main.96690bc0.js.map": "/AtlusClone/static/js/main.96690bc0.js.map",
+    "main.af9a6126.js.map": "/AtlusClone/static/js/main.af9a6126.js.map",
     "787.53dd87b0.chunk.js.map": "/AtlusClone/static/js/787.53dd87b0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a13cdcd2.css",
-    "static/js/main.96690bc0.js"
+    "static/js/main.af9a6126.js"
   ]
 }
